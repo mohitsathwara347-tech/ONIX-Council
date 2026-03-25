@@ -186,4 +186,4 @@ This project is ideal for research, exploration, and anyone interested in **coll
 ## 📜 License
 
 MIT License
-© 2026 Pranil Shah
+© 2026 Mohit Satvara
